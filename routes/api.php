@@ -25,3 +25,4 @@ Route::apiResource('categories',
 Route::apiResource('transactions',
 \App\Http\Controllers\Api\TransactionController::class);
 
+
